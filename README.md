@@ -36,9 +36,9 @@ The DBpedia extraction framework is structured into different modules
 **Components**
 
 * [Source](http://wiki.dbpedia.org/DeveloperDocumentation/Source?v=bms "Developer Documentation / Source") : The Source package provides an abstraction over a source of Media Wiki pages.
-* [WikiParser](http://wiki.dbpedia.org/DeveloperDocumentation/WikiParser?v=hdy "Developer Documentation / Wiki Parser") : The Wiki Parser package specifies a parser, which transforms an Media Wiki page source into an Abstract Syntax Tree (AST).
-* [Extractor](http://wiki.dbpedia.org/DeveloperDocumentation/Extractor?v=vqu "Developer Documentation / Extractor") : An Extractor is a mapping from a page node to a graph of statements about it.
-* [Destination](http://wiki.dbpedia.org/DeveloperDocumentation/Destination?v=l9g "Developer Documentation / Destination") : The Destination package provides an abstraction over a destination of RDF statements.
+* [WikiParser](http://wiki.dbpedia.org/services-resources/documentation/wikiparser "Developer Documentation / Wiki Parser") : The Wiki Parser package specifies a parser, which transforms an Media Wiki page source into an Abstract Syntax Tree (AST).
+* [Extractor](http://wiki.dbpedia.org/services-resources/documentation/extractor "Developer Documentation / Extractor") : An Extractor is a mapping from a page node to a graph of statements about it.
+* [Destination](http://wiki.dbpedia.org/services-resources/documentation/destination "Developer Documentation / Destination") : The Destination package provides an abstraction over a destination of RDF statements.
 
 <a name="p27582-11"></a>
 
